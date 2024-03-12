@@ -1,0 +1,45 @@
+{
+	"fileVersion": 15,
+	"versionSuffix": "",
+	"title": "ColorRun",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "29.00",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "",
+	"plugins": [
+		{
+			"name": "ColorRun",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 1,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Unrestricted",
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "bd531729-4d8d-eeef-03d3-a7983fca2aac",
+		"projectVersePath": "",
+		"modules":
+		{
+			"ColorRun": "bcc39a0c-4e2f-5d77-254f-4cbeeca05d66"
+		}
+	}
+}
